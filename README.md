@@ -4,7 +4,7 @@ API REST sécurisée et documentée pour CityLunch : gestion des produits, des l
 
 Réalisée en **Python / FastAPI** dans le cadre de l'épreuve **EC03 Back — Développement d'une API sécurisée et documentée**.
 
-> 🔗 **Dépôt Git public :** https://github.com/<TON_USER>/citylunch-api
+> 🔗 **Dépôt Git public :** https://github.com/2H0cn3/citylunch-api.git
 
 ---
 
